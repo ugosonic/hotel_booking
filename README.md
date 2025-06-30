@@ -79,7 +79,4 @@ This repository contains the source code for **RalphCity Apartment**, a web-base
 
 Pull requests are welcome. Please fork the project and open an issue to discuss your proposed changes before submitting a PR.
 
-## License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
