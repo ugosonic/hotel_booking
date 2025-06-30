@@ -1,0 +1,18 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-zZVzzY2C.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/universal.css": {
+    "file": "assets/universal-DZjZfmlY.css",
+    "src": "resources/css/universal.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CMctZYDn.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}

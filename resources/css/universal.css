@@ -1,0 +1,124 @@
+/* Universal Background Style */
+body {
+    background: linear-gradient(to right, #f9f7f7, #e4f1f7, #f6e7f8, #eef9f2);
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Universal Button Styles */
+button, .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Primary Button */
+.btn-primary {
+    background-color: #6c63ff;
+}
+
+.btn-primary:hover {
+    background-color: #5148e2;
+    transform: scale(1.05);
+}
+
+/* Secondary Button */
+.btn-secondary {
+    background-color: #ff6584;
+}
+
+.btn-secondary:hover {
+    background-color: #e14b6b;
+    transform: scale(1.05);
+}
+
+/* Success Button */
+.btn-success {
+    background-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
+
+/* Danger Button */
+.btn-danger {
+    background-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    transform: scale(1.05);
+}
+
+/* Universal Smooth Hover Effect for Links */
+a {
+    color: #6c63ff;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: #5148e2;
+}
+/* Input Fields */
+input {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+input:focus {
+    background-color: #fff;
+    border-color: #6c63ff;
+    box-shadow: 0 0 5px rgba(108, 99, 255, 0.5);
+    outline: none;
+}
+
+/* Buttons */
+button, .btn {
+    display: inline-block;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #6c63ff;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover, .btn:hover {
+    background-color: #5148e2;
+    transform: scale(1.05);
+}
+
+.lightcolor { fill: #f0f0f0; }
+.darkcolor { fill: #d1d1d1; }
+.greydark { fill: #cccccc; }
+
+/* PAGE  HEADING  */
+.page-heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    /* Mobile responsive? You can do e.g. */
+  }
+  
+  @media (min-width: 768px) {
+    .page-heading {
+      font-size: 2rem;
+    }
+  }
+  
