@@ -65,7 +65,7 @@ This repository contains the source code for **RalphCity Apartment**, a web-base
 Images stored in the repository can be displayed using the standard Markdown syntax:
 
 ```markdown
-![Sample apartment]([images/hotel1.jpg](https://github.com/ugosonic/hotel_booking/blob/main/images/hotel1.jpg))
+![Sample apartment]([images/hotel1.jpg](https://github.com/ugosonic/hotel_booking/blob/main/images/hotel1.jpg?raw=true))
 ```
 
 This will embed the image from the `images/` directory when viewing the README on GitHub.
