@@ -62,20 +62,18 @@ This repository contains the source code for **RalphCity Apartment**, a web-base
 
 ## Adding Images to the README
 
-Images stored in the repository can be displayed using the standard Markdown syntax:
 
 
 ![Homepage](images/homepage.png)
-Homepage
+<b>Homepage</b>
 
 ![Client Dashboard](images/client_dashboard.png)
-Client Dashboard
+<b>Client Dashboard</b>
 
 ![Staff Dashboard](images/staff_dashboard.png)
-Staff Dashboard
+<b>Staff Dashboard</b>
 
 
-This will embed the image from the `images/` directory when viewing the README on GitHub.
 
 ## Contributing
 
